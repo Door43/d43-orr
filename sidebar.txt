@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[orr:home|Door43 (orr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-orr|d43-orr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-orr/archive/master.zip|d43-orr.zip]]
+
+**Recent Changes**
+{{changes>ns = orr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/orr|Ethnologue data]]
+
